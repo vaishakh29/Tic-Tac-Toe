@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tic-Tac-Toe-using-Reactjs-Nodejs/static/css/main.539081fd.css",
+    "main.js": "/Tic-Tac-Toe-using-Reactjs-Nodejs/static/js/main.c3ac1650.js",
+    "static/media/GameOverSound.wav": "/Tic-Tac-Toe-using-Reactjs-Nodejs/static/media/GameOverSound.3894918f7585f9300350.wav",
+    "static/media/ClickSound.wav": "/Tic-Tac-Toe-using-Reactjs-Nodejs/static/media/ClickSound.450b31dca5ff2247781d.wav",
+    "index.html": "/Tic-Tac-Toe-using-Reactjs-Nodejs/index.html",
+    "main.539081fd.css.map": "/Tic-Tac-Toe-using-Reactjs-Nodejs/static/css/main.539081fd.css.map",
+    "main.c3ac1650.js.map": "/Tic-Tac-Toe-using-Reactjs-Nodejs/static/js/main.c3ac1650.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.539081fd.css",
+    "static/js/main.c3ac1650.js"
+  ]
+}
