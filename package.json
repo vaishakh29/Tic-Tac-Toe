@@ -1,6 +1,6 @@
 {
   "name": "tic-tac-toe",
-  "homepage": "https://vaishakh29.github.io/Tic-Tac-Toe-using-Reactjs-Nodejs/",
+  "homepage": "https://vaishakh29.github.io/Tic-Tac-Toe-using-Reactjs-Nodejs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,9 +14,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
